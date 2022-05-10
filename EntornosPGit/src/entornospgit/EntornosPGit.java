@@ -13,7 +13,7 @@ import java.util.Scanner;
  */
 public class EntornosPGit {
 
-    /**
+    /** COMENTARIO DE PRUEBA
      * @param args the command line arguments
      */
     public static void main(String[] args) {
