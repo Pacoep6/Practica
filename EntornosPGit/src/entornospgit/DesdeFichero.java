@@ -38,7 +38,7 @@ public class DesdeFichero {
                     max = num;
                 }
 
-            }
+            } //COMENTARIO NUEVO
             System.out.println("El mayor es " + max);
             rd.close();
         } catch (FileNotFoundException e) {
