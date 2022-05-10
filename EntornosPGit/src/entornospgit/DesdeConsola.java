@@ -37,8 +37,7 @@ public class DesdeConsola {
         //variables
         System.out.println("El mayor es " + lista.get(lista.size() - 1));
 
-        //selecciono la ruta
-
+        
 
     }
 
