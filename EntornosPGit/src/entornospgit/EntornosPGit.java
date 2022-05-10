@@ -34,8 +34,11 @@ public class EntornosPGit {
                 break;
 
             case 2:
-                //HACER CLASE QUE PERMITA METER NUMS DESDE CONSOLA!!!
-                //y codificar aquí la llamada a método máximo y mínimo
+                //HACER CLASE DesdeConsola QUE PERMITA METER NUMS DESDE CONSOLA!!!--------------------
+                DesdeConsola cons = new DesdeConsola();
+                //y codificar aquí la llamada a método máximo y mínimo, similar al case 1-------------
+                cons.maximo();
+                cons.minimo();
                 break;
             default:
                 System.out.println("Saliendo...");
